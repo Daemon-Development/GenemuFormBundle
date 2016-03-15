@@ -20,12 +20,12 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.2",
-        "symfony/framework-bundle": "~2.6",
-        "symfony/form": "~2.6"
+        "php": ">=5.5.9",
+        "symfony/framework-bundle": "*",
+        "symfony/form": "*"
     },
     "require-dev": {
-        "symfony/doctrine-bridge": "~2.6",
+        "symfony/doctrine-bridge": "*",
         "symfony/finder": "2.*",
         "doctrine/orm": "2.*",
         "doctrine/doctrine-bundle": "1.*",
